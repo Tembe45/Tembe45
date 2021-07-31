@@ -1,8 +1,10 @@
-- 👋 Hola Soy Ramiro 
+- 👋 Hola Soy Ramiro
 - 👀Me interesa la programacion
 - 🌱 Actualmente estoy aprendiendo en Henry
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️  Colaboro con Henry
+- 📫  Contactarme a mi mail
+- 
+- 
 
 <!---
 Tembe45/Tembe45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
